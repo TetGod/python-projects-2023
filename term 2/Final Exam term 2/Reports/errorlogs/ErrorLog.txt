@@ -1,0 +1,40 @@
+2023-01-03 13:33:32.222135
+[Errno 2] No such file or directory: 'C:\\Users\\landon.bowcutt\\Desktop\\python projects 2022 Landon Jay Bowcutt\\term 2\\Final Exam term 2\\exams\\jklasdf'
+the file that was used wasjklasdf2023-01-03 13:34:07.525831
+[Errno 2] No such file or directory: 'C:\\Users\\landon.bowcutt\\Desktop\\python projects 2022 Landon Jay Bowcutt\\term 2\\Final Exam term 2\\exams\\'
+the file that was used was2023-01-03 13:34:13.782890
+[Errno 2] No such file or directory: 'C:\\Users\\landon.bowcutt\\Desktop\\python projects 2022 Landon Jay Bowcutt\\term 2\\Final Exam term 2\\exams\\jkasdfl'
+the file that was used wasjkasdfl2023-01-03 13:35:40.343603
+[Errno 2] No such file or directory: 'C:\\Users\\landon.bowcutt\\Desktop\\python projects 2022 Landon Jay Bowcutt\\term 2\\Final Exam term 2\\exams\\ExampleTest.txt'
+the file that was used wasExampleTest.txt2023-01-03 13:38:16.592412
+[Errno 2] No such file or directory: 'C:\\Users\\landon.bowcutt\\Desktop\\python projects 2022 Landon Jay Bowcutt\\term 2\\Final Exam term 2\\exams\\yefhriow'
+the file that was used wasyefhriow2023-01-03 13:40:29.689367
+[Errno 2] No such file or directory: 'C:\\Users\\landon.bowcutt\\Desktop\\python projects 2022 Landon Jay Bowcutt\\term 2\\Final Exam term 2\\exams\\hsdjkfusf'
+the file that was used
+2023-01-03 13:46:56.344457
+[Errno 2] No such file or directory: 'C:\\Users\\landon.bowcutt\\Desktop\\python projects 2022 Landon Jay Bowcutt\\term 2\\Final Exam term 2\\exams\\ExampleTest.txt'
+the file that was used wasExampleTest.txt2023-01-03 13:48:12.163997
+[Errno 2] No such file or directory: 'C:\\Users\\landon.bowcutt\\Desktop\\python projects 2022 Landon Jay Bowcutt\\term 2\\Final Exam term 2\\exams\\ExampleTest.txt'
+the file that was used wasExampleTest.txt2023-01-03 13:52:05.545169
+[Errno 2] No such file or directory: 'C:\\Users\\landon.bowcutt\\Desktop\\python projects 2022 Landon Jay Bowcutt\\term 2\\Final Exam term 2\\exams\\ExampleTest.txt'
+the file that was used wasExampleTest.txt2023-01-03 13:52:45.058452
+[Errno 2] No such file or directory: 'C:\\Users\\landon.bowcutt\\Desktop\\python projects 2022 Landon Jay Bowcutt\\term 2\\Final Exam term 2\\exams\\ashjifo'
+the file that was used wasashjifo2023-01-03 13:53:22.946386
+[Errno 2] No such file or directory: 'C:\\Users\\landon.bowcutt\\Desktop\\python projects 2022 Landon Jay Bowcutt\\term 2\\Final Exam term 2\\exams\\asjdfk'
+the file that was used wasasjdfk2023-01-03 13:56:57.971695
+[Errno 2] No such file or directory: 'C:\\Users\\landon.bowcutt\\Desktop\\python projects 2022 Landon Jay Bowcutt\\term 2\\Final Exam term 2\\exams\\fhjsdialfgiuegwalsyikdbvdhjalsxcncfbgfyueilaALUIWYEGFDHJSBALFKLASHJDGFulyigdsf.lauyisdghfjkhjsdnfbvzluyahgewflAYUJIHGfghJKLSZD<XFcbhansaSk,wegdfbaewfwa'
+the file that was used wasfhjsdialfgiuegwalsyikdbvdhjalsxcncfbgfyueilaALUIWYEGFDHJSBALFKLASHJDGFulyigdsf.lauyisdghfjkhjsdnfbvzluyahgewflAYUJIHGfghJKLSZD<XFcbhansaSk,wegdfbaewfwa2023-01-03 13:59:32.308131
+[Errno 2] No such file or directory: 'C:\\Users\\landon.bowcutt\\Desktop\\python projects 2022 Landon Jay Bowcutt\\term 2\\Final Exam term 2\\exams\\ExampleTest.txt'
+the file that was used wasExampleTest.txt2023-01-03 14:00:24.771976
+[Errno 2] No such file or directory: 'C:\\Users\\landon.bowcutt\\Desktop\\python projects 2022 Landon Jay Bowcutt\\term 2\\Final Exam term 2\\exams\\Example test'
+the file that was used wasExample test2023-01-03 14:08:57.777878
+[Errno 2] No such file or directory: 'C:\\Users\\landon.bowcutt\\Desktop\\python projects 2022 Landon Jay Bowcutt\\term 2\\Final Exam term 2\\exams\\ExampleTest.txt'
+the file that was used wasExampleTest.txt2023-01-03 14:09:57.395043
+[Errno 2] No such file or directory: 'C:\\Users\\landon.bowcutt\\Desktop\\python projects 2022 Landon Jay Bowcutt\\term 2\\Final Exam term 2\\exams\\ExampleTest.txt'
+the file that was used wasExampleTest.txt2023-01-03 14:12:05.228290
+[Errno 2] No such file or directory: 'C:\\Users\\landon.bowcutt\\Desktop\\python projects 2022 Landon Jay Bowcutt\\term 2\\Final Exam term 2\\exams\\EaxmpleTest.txt'
+the file that was used wasEaxmpleTest.txt2023-01-05 12:53:14.080528
+[Errno 2] No such file or directory: 'C:\\Users\\landon.bowcutt\\Desktop\\python projects 2022 Landon Jay Bowcutt\\term 2\\Final Exam term 2\\exams\\landon'
+the file that was used waslandon2023-01-05 13:57:03.611306
+[Errno 2] No such file or directory: 'C:\\Users\\landon.bowcutt\\Desktop\\python projects 2022 Landon Jay Bowcutt\\term 2\\Final Exam term 2\\exams\\ExampoleTest.txt'
+the file that was used wasExampoleTest.txt

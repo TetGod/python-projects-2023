@@ -1,0 +1,205 @@
+Landon Bowcutt python term 2 final exam
+Question Category
+Why is Python a good language for beginning programmers to learn?
+Python is free and easy to use
+Python comes with professional source control features
+Computer games written in Python are easier to sell
+All of these are true
+1
+its easy to use
+category
+Python will run on which of the following computer systems?
+All of these are true
+Windows
+Mac OS
+Linux
+1
+python is very accesible
+category
+Why did Guido van Rossum create the Python language?
+  As a hobby project over a Christmas break
+  As part of his job in AT&T's Bell Labs
+  To meet the demand for an advanced language
+  In order to impress his friends
+1
+he once decided to do it at that time
+category
+How many major releases have there been of the Python language?
+  3
+  1
+  10
+  One per year since 1989
+
+1
+because they released 3 things
+category
+Which of the following best describes the Python Software Foundation?
+A non-profit organization created in 2001 to maintain Python
+  A for-profit organization created to sell Python licenses
+  A job-posting website for Python programmers
+  The company that Guido van Rossum worked for when he created Python
+1
+python is non profit
+category
+The Python language was named after what thing?
+Monty Python's Flying Circus TV show
+  The python snake
+  The name of a favorite science-fiction character
+  The nickname of the inventor's childhood friend
+1
+He liked monty python
+category
+What kinds of things can you find at the www.python.org website?
+ All of these are true
+  Python blogs and community events
+  Python success stories and documentation
+  Python updates and downloads
+1
+they are all true
+category
+What file extension is normally given to Python source code?
+ .py
+  .python
+  .source
+  .exe
+1
+its given .py as the first two letters of the name
+category
+Which of the following terms best describes the Python component that translates Python source code into program output?
+ Interpreter
+  Compiler
+  Grader
+  Runner
+1
+an interpreter interprets stuff like python
+category
+Which of the following approaches can you use to run Python programs?
+All of these are true
+  Run Python from the command line
+  Use an Integrated Development Environment (IDE)
+  Use the online python engine within the course lesson pages
+
+1
+all of those choices are true and work
+category
+Which of the following is an advantage to using our online Python engine?
+Correct!
+   You don't need to install Python on your local computer
+  You are more likely to write good Python code
+  You can avoid the normal Python licensing fees
+  All of these are true
+1
+you dont need to install
+category
+Which of the following steps must be taken to create and run Python programs on your own computer?
+Install the Python interpreter
+  Create a test plan
+  Register your email address with the Python Software Foundation
+  All of these are true
+1
+you need to install python
+category
+How do you safely break a long Python statement across multiple lines?
+Add a backslash (\) at the end of each line that has more to follow on the next line
+  Indent the remaining parts to the right of the first line in the statement
+  Just freely add line breaks where needed, and mark the very end with a colon (:)
+  All of these will work
+1
+you just add a backslash
+category
+What happens if you write code that does not follow Python syntax rules?
+The program will not run, and you will see an error message instead
+  The program will run but it may be a little quirky
+  You risk crashing your computer
+  The program will run, but you could be subject to a fine
+1
+the program will just not run
+category
+Which of the following statements will display the phrase "Python is great!"?
+print("Python is great!")
+  print(Python is great!)
+  display "Python is great!"
+  output - Python is great!
+1
+doing that it will prnt Python is great
+category
+Which of the following best describes how Python statements are executed?
+ One at a time, from top to bottom
+  One at a time, from bottom to top
+  In batches of 10 or more at a time
+  In priority order from most important to least important
+
+1
+they are displayed one at a time
+category
+How does Python use indentation (spacing of statements to the right)?
+ To identify blocks of code that belong together
+  To identify statements that should be run in reverse order
+  To add a delay before executing the statement
+  To start a comment line
+
+1
+it identifies blocks of code
+category
+Which of the following lines contains a valid Python comment?
+ # Look at what I can do
+  ! Look at what I can do
+   	Look at what I can do
+  ("Look at what I can do")
+1
+# is a valid way to comment out code
+category
+What is the purpose of leaving comments in your source code?
+To make the code easier for human readers to understand
+  To give extra guidance to the Python interpreter when running the program
+  To add program statements that will run in a test mode but not produce any output
+  All of these are true
+1
+to make code easy to understand
+category
+Which of the following best describes a variable?
+
+  A place where you store a value that can never change
+  A named area in computer memory that holds a value
+  A Python statement that has random effects
+  None of these are true
+1
+explanation
+category
+Which of the following statements correctly assigns the value 42 to a
+variable named "theAnswer"?
+
+  42 # theAnswer
+  theAnswer(42)
+  . 42 = theAnswer
+  theAnswer = 42
+1
+explanation
+category
+ What does a data type say about a value?
+
+  All of these are true
+  The kind of data that can be stored in the value
+  The amount of computer memory needed to hold the data
+  The types of operations that can be done on the data
+1
+explanation
+category
+Which of the following variable names are invalid in Python?
+
+  testing 123
+  123_testing
+  testing#123
+  All of these are invalid
+1
+explanation
+category
+Which of the following variable names are valid in Python?
+
+  testing123
+  testing_123
+  All of these are valid
+  . TESTING
+1
+explanation
+category
